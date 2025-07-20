@@ -60,11 +60,8 @@ AI-FinAgent is a modular, multi-agent AI system designed to conduct intelligent 
 ```
 AI-FinAgent/
 │
-├── agents/                  # PHI agent definitions
-├── tools/                   # DuckDuckGo + yfinance modules
-├── ui/                      # Streamlit or Flask app
-├── config/                  # API keys, Groq integration
-├── main.py                  # Entry point
+├── financial_agent.py                 # API keys, Groq integration
+├── playground.py                  # Entry point
 ├── requirements.txt
 └── README.md
 ```
