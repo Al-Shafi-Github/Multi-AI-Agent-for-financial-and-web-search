@@ -7,9 +7,13 @@ AI-FinAgent is a modular, multi-agent AI system designed to conduct intelligent 
 ## 🚀 Key Features
 
 ✅ Multi-agent architecture using the PHI framework
+
 ✅ Real-time web search via DuckDuckGo API
-✅ Stock data and financial metrics via Yahoo Finance (yfinance)
+
+✅ Stock data and financial metrics via Yahoo Finance (finance)
+
 ✅ Groq LLM-powered reasoning and response generation
+
 ✅ Deployed interactive web-based AI playground for user queries and insights
 
 ---
