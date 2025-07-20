@@ -1,10 +1,4 @@
 # Multi-AI-Agent-for-financial-and-web-search
-Sure! Here's a professional and well-structured GitHub README for your project:
-
----
-
-# AI-FinAgent: Multi-Agent Financial Analyst with Real-Time Search & LLM Integration
-
 
 AI-FinAgent is a modular, multi-agent AI system designed to conduct intelligent financial analysis and live web search through autonomous collaboration. Built with the PHI agent framework and powered by Groq LLM, it provides real-time stock insights, news summaries, and data-driven decisions via an interactive AI playground.
 
